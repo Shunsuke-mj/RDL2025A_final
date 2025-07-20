@@ -188,9 +188,9 @@ img {
 
 .musical_instrument-movie{
     width: 930px;
-    max-width: 90%;
+    max-width: 100%;
     background-color: #f8f8f8;
-    padding: 50px 60px;
+    padding: 20px 20px;
     margin-top: 55px;
     margin-left: auto;
     margin-right: auto;
